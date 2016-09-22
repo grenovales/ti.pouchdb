@@ -1,5 +1,5 @@
 {
-  "name": "TiPouchDB",
+  "name": "tipouchdb",
   "version": "1.0.0",
   "description": "PouchDB on Titanium",
   "main": "src/TiPouchDB.js",
