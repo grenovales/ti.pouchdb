@@ -1,7 +1,7 @@
 /**
  * TiPouchDB
  */
-var PouchDB                = require('pouchdb');
+var PouchDB = require('pouchdb');
 
 
 function TiPouchBD(dbname, options) {
