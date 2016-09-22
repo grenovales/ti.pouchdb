@@ -1,8 +1,8 @@
 {
-  "name": "ti.pouchdb",
+  "name": "TiPouchDB",
   "version": "1.0.0",
   "description": "PouchDB on Titanium",
-  "main": "src/ti.pouchdb.js",
+  "main": "src/TiPouchDB.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
