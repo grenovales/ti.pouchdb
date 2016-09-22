@@ -1,25 +1,26 @@
 {
-  "name": "ti.pouchdb",
-  "version": "1.0.0",
-  "description": "PouchDB on Titanium",
-  "main": "src/ti.puchdb.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/camazorro/ti.pouchdb.git"
-  },
-  "keywords": [
-    "PouchDB",
-    "titanium",
-    "adapter",
-    "titaniumifier"
-  ],
-  "author": "Gerardo Renovales",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/camazorro/ti.pouchdb/issues"
-  },
-  "homepage": "https://github.com/camazorro/ti.pouchdb#readme"
+    "name": "ti.pouchdb",
+    "version": "1.0.0",
+    "description": "PouchDB on Titanium",
+    "main": "src/ti.pouchdb.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/camazorro/ti.pouchdb.git"
+    },
+    "keywords": [
+        "PouchDB",
+        "titanium"
+    ],
+    "author": "Gerardo Renovales",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/camazorro/ti.pouchdb/issues"
+    },
+    "homepage": "https://github.com/camazorro/ti.pouchdb#readme",
+    "dependencies": {
+        "pouchdb": "^6.0.5"
+    }  
 }
