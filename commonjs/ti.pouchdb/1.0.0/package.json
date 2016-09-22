@@ -1,9 +1,0 @@
-{
-    "description": "Titanium CommonJS Module for PouchDB",
-    "directories": {
-        "lib": "."
-    },
-    "main": "ti.pouchdb",
-    "name": "ti.pouchdb",
-    "version": "1.0.0"
-}
